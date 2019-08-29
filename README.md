@@ -1,2 +1,2 @@
 # NMFS_death
-Analyze the relations between causes of death and demographic characteristics
+Analyze the relationships between causes of death and demographic features
